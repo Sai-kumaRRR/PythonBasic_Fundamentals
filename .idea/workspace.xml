@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e1194a1-2e75-45a0-b4df-f7636a481123" name="Changes" comment="3th May 2025">
-      <change afterPath="$PROJECT_DIR$/ex03_Loops/Lab14_Loopsexample02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex03_Loops/Lab15_Loopsexample03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex03_Loops/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex04_Triangle_classifier/Lab16_Task01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex04_Triangle_classifier/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex05_Grade_calculator/Lab17_grade_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex05_Grade_calculator/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex06_Continues/Lab18_continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex06_Continues/Lab19_continue-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex06_Continues/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab11_Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex03_Loops/Lab11_Loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab12_Loops02.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex03_Loops/Lab12_Loops02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex03_Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex03_Loops/Lab13_Loops_example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sai-kumaRRR"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sai-kumaRRR/Basic_Fundamentals.git",
+    "accountId": "a487797c-7cc1-4505-a07c-d4d767349828"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -44,26 +43,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab01Data_types.executor": "Run",
-    "Python.Lab02_AssignmentOperator01.executor": "Run",
-    "Python.Lab04_equal&comparsion_operator.executor": "Run",
-    "Python.Lab10_Maxium_Nmuber.executor": "Run",
-    "Python.Lab12_Loops02.executor": "Run",
-    "Python.Lab13_Loops_example.executor": "Run",
-    "Python.Lab14_Loopsexample02.executor": "Run",
-    "Python.Lab15_Loopsexample03.executor": "Run",
-    "Python.Lab17_grade_calculator.executor": "Run",
-    "Python.Lab18_continue.executor": "Run",
-    "Python.Lab19_continue-2.executor": "Run",
-    "Python.Lab_09And_operator.executor": "Run",
-    "Python.ex03_Loops.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab01Data_types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab02_AssignmentOperator01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab04_equal&amp;comparsion_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab10_Maxium_Nmuber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab12_Loops02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab13_Loops_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab14_Loopsexample02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab15_Loopsexample03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab17_grade_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab18_continue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab19_continue-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_09And_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex03_Loops.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\alamu\PycharmProjects\Basic_Fundamentals\ex03_Loops" />
@@ -214,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746283415062</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3th May 2025">
+      <option name="closed" value="true" />
+      <created>1746292331831</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746292331831</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
